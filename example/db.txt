@@ -1,0 +1,4 @@
+host=mytdhost
+user=myuser
+password=mypassword
+mytablename=tgt_table
